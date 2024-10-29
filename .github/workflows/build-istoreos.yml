@@ -37,8 +37,8 @@ jobs:
          # - rk33xx
           - rk35xx
          #  - x86
-       # os:
-          # - ubuntu-22.04
+        os:
+          - ubuntu-22.04
         include:
           - REPO_BRANCH: istoreos-23.05
            # ARCHITECTURE: x86-alpha
